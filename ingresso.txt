@@ -1,0 +1,3 @@
+Ingresso 0 Tipo Meia  Sessao 0 Filme Rambo Valor 5
+Ingresso 1 Tipo Inteira  Sessao 0 Filme Rambo Valor 10
+Ingresso 2 Tipo Inteira  Sessao 1 Filme Rio Valor 10
